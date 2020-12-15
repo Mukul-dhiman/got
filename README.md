@@ -1,4 +1,4 @@
-# got
+# Listen to Game of Thrones while coding.
 
 
 - clone
@@ -17,4 +17,6 @@ pip3 install -r requirenment.txt
 python3 listen.py { chapter_Number } { line_number }
 ```
 
-example "python3 listen.py 1 1" will read from first line of the first chapter
+example "python3 listen.py 1 1" will read from first line of the first chapter. 
+
+created for fun/vella tha
